@@ -1,0 +1,26 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project001HalloDunia/Project001HalloDunia.vcxproj" Id="435d78b4-7edc-4dcb-ac55-bc2cd7b71ed4" />
+  <Project Path="Project002Variable/Project002Variable.vcxproj" Id="eec899de-4eb6-479c-85f5-9037a6a866ba" />
+  <Project Path="Project003InputOutputLayar/Project003InputOutputLayar.vcxproj" Id="dc8a3185-5424-4547-ab60-00474858f3c5" />
+  <Project Path="Project004ControlFlow/Project004ControlFlow.vcxproj" Id="8eade584-064e-49a4-b2ff-a6f1cf981e3e" />
+  <Project Path="Project005Operator/Project005Operator.vcxproj" Id="38ebc06b-acae-41aa-a2e8-2f81ff00b2d9" />
+  <Project Path="Project006Fungsi/Project006Fungsi.vcxproj" Id="8119401d-b5b8-4562-afda-bd38d41e45de" />
+  <Project Path="Project007Pointer/Project007Pointer.vcxproj" Id="d014acb8-4d5d-4fbd-b97b-4d2d476db70a" />
+  <Project Path="Project008Array/Project008Array.vcxproj" Id="bdd32483-6b5d-438c-8667-1cc342715a82" />
+  <Project Path="Project009StructDanUnion/Project009StructDanUnion.vcxproj" Id="4b0a41be-2ad8-4d6b-85a7-49fb5e3f7aac" />
+  <Project Path="Project010HeaderDanModularisasi/Project010HeaderDanModularisasi.vcxproj" Id="fa615523-3d99-44ac-b50c-e145f24afd55" />
+  <Project Path="Project011CharDanString/Project011CharDanString.vcxproj" Id="9082920b-4da3-4527-99d2-9f90fbe00176" />
+  <Project Path="Project012Preprocessor/Project012Preprocessor.vcxproj" Id="78c2612b-b0b1-4cf3-bdde-956e48cb4bec" />
+  <Project Path="Project013Typedef/Project013Typedef.vcxproj" Id="a6f7e4b8-a238-40b5-939a-bab3aacb92b7" />
+  <Project Path="Project014BitDanByte/Project014BitDanByte.vcxproj" Id="db979c93-80ed-485f-830c-b50723702d7b" />
+  <Project Path="Project015TypecastingDanVoidPointer/Project015TypecastingDanVoidPointer.vcxproj" Id="b67654de-95a9-46c7-a7ca-ecdd1cf54015" />
+  <Project Path="Project016ManagementMemori/Project016ManagementMemori.vcxproj" Id="2f0eaa20-c3c5-4524-a8d4-154265beeaaa" />
+  <Project Path="Project017StandardLibraryString/Project017StandardLibraryString.vcxproj" Id="8ea3dffa-6c30-411a-a0a2-cfe80f286fd5" />
+  <Project Path="Project018StandardLibraryFile/Project018StandardLibraryFile.vcxproj" Id="d20df364-dcb6-487b-9a3c-2ffcee4df595" />
+  <Project Path="Project019AllAboutPointer/Project019AllAboutPointer.vcxproj" Id="3a0b3081-4bee-46de-9622-08c453e16e4c" />
+  <Project Path="Project020AllAboutString/Project020AllAboutString.vcxproj" Id="143c15e5-87e4-4496-a4a1-233c4fa8f5a5" />
+</Solution>
